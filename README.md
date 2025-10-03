@@ -9,7 +9,7 @@ QuestPDF template for generating invoices.
 dotnet add package QuestPDF
 ```
 
-### 2. Set License (Required)
+### 2. Set License
 ```csharp
 QuestPDF.Settings.License = LicenseType.Community;
 ```
