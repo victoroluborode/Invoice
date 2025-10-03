@@ -56,3 +56,4 @@
 /Users/victoroluborode/Invoice/obj/Debug/net9.0/Invoice.pdb
 /Users/victoroluborode/Invoice/obj/Debug/net9.0/Invoice.genruntimeconfig.cache
 /Users/victoroluborode/Invoice/obj/Debug/net9.0/ref/Invoice.dll
+/Users/victoroluborode/Invoice/obj/Debug/net9.0/Invoice.sourcelink.json
